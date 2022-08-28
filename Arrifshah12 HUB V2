@@ -137,6 +137,6 @@ SMBSection:NewButton("Deathness V4", "SANESSS", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Xylezx/Deathness-V4/main/Deathness%20V4", true))()
 end)
 
-SMBSection:NewButton("Deathness V4", "SANESSS", function()
+SMBSection:NewButton("Deathness V2", "SANESSS", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Xylezx/Deathness-V2/main/Deathness-V2", true))()
 end)
