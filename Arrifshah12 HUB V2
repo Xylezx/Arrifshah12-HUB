@@ -130,7 +130,7 @@ SMBSection:NewButton("Deathness", "SANESSS", function()
 end)
 
 SMBSection:NewButton("Triple's Custom GUI", "SANESSS", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/5KZR0jaa", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Xylezx/Triple-Steve/main/Custom%20GUI", true))()
 end)
 
 SMBSection:NewButton("Deathness V4", "SANESSS", function()
