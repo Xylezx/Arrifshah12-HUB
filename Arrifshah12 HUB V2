@@ -3,7 +3,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Arrifshah12 HUB", "BloodTheme")
 
-print("test ahh~ error daddy~~")
 print("Script Executed!")
 print("YOU EXECUTED (giga chad) EXECUTED ARRIFSHAH12 HUB HAVE FUN")
 
@@ -110,6 +109,9 @@ PVZSection:NewButton("Money Script", "By ???", function()
     loadstring(game:HttpGet("https://pastebin.com/raw/E0dffjnf", true))()
 end)
 
+print("ahh~ error sans daddy~~ fuck me harder ahh!~")
+print("haha yes i love fucking with skeletons")
+
 --RAINBOW FRIENDS
 local RF = Window:NewTab("Rainbow Friends")
 local RFSection = RF:NewSection("Rainbow Friends")
@@ -134,6 +136,7 @@ SMBSection:NewButton("Triple's Custom GUI", "SANESSS", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Xylezx/Triple-Steve/main/Custom%20GUI", true))()
 end)
 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Xylezx/Deathness-V2/main/Deathness-V2", true))()
 SMBSection:NewButton("Deathness V4", "SANESSS", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Xylezx/Deathness-V4/main/Deathness%20V4", true))()
 end)
