@@ -136,7 +136,6 @@ SMBSection:NewButton("Triple's Custom GUI", "SANESSS", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Xylezx/Triple-Steve/main/Custom%20GUI", true))()
 end)
 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Xylezx/Deathness-V2/main/Deathness-V2", true))()
 SMBSection:NewButton("Deathness V4", "SANESSS", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Xylezx/Deathness-V4/main/Deathness%20V4", true))()
 end)
