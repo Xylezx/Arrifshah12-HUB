@@ -128,18 +128,23 @@ end)
 local SMB = Window:NewTab("SMB")
 local SMBSection = SMB:NewSection("Sans Multiversal Battles")
 
-SMBSection:NewButton("Deathness", "SANESSS", function()
+SMBSection:NewButton("Deathness", "Ah yes, the OG.", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Xylezx/Deathness-V1/main/Deathness", true))()
 end)
 
-SMBSection:NewButton("Triple's Custom GUI", "SANESSS", function()
+SMBSection:NewButton("Triple's Custom GUI", "Triple Steve??!?!?", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Xylezx/Triple-Steve/main/Custom%20GUI", true))()
 end)
 
-SMBSection:NewButton("Deathness V4", "SANESSS", function()
+SMBSection:NewButton("Deathness V4", "Credits In GUI", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Xylezx/Deathness-V4/main/Deathness%20V4", true))()
 end)
 
-SMBSection:NewButton("Deathness V2", "SANESSS", function()
+SMBSection:NewButton("Deathness V2", "Credits In GUI", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Xylezx/Deathness-V2/main/Deathness-V2", true))()
 end)
+
+SMBSection:NewButton("Overwrite (OP)", "By Triple", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/GreenySteveyYtt/Overwrite/main/smb1overwrite.lua'))()
+end)
+
