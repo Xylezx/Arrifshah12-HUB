@@ -148,3 +148,11 @@ SMBSection:NewButton("Overwrite (OP)", "By Triple", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/GreenySteveyYtt/Overwrite/main/smb1overwrite.lua'))()
 end)
 
+--Sans Multiversal Battles 2
+local SMB2 = Window:NewTab("SMB2")
+local SMB2Section = SMB:NewSection("Sans Multiversal Battles 2")
+
+SMB2Section:NewButton("Acrylix", "By Tomfooler :]", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/3dsonsuce/acrylix/main/Acrylix'))()", true))()
+end)
+
